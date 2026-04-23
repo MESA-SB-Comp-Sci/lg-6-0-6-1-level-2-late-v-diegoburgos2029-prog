@@ -2,4 +2,34 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: grey;
+}
+.header-style-1{
+    color: white;
+    background-color: burlywood;
+    border-style: double;
+    border-color: aqua;
 
+}
+
+.p2{
+    background-color: lightcoral;
+}
+
+.p3{
+    color: rgb(225, 59, 225);
+    background-color: peachpuff;
+}
+
+.border1{
+  background-color: rgb(34, 134, 34);
+  border-style: double;
+  border-color: blue;
+  height: 20vh;
+ 
+}
+
+.p{
+    color: green;
+}
